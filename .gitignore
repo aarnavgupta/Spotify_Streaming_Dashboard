@@ -1,0 +1,10 @@
+# Power BI local cache and settings
+*.abf
+.pbi/
+**/.pbi/
+# Data files
+*.csv
+# OS and editor files
+.DS_Store
+Thumbs.db
+~$*
